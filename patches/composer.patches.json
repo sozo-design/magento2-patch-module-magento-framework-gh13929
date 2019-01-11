@@ -1,0 +1,7 @@
+{
+  "patches": {
+    "magento/framework": {
+      "Magento 2.1.12 Directory Resolver Fix": "../environments/global/patches/magento/framework/2.1.12_directory_resolver_v1.patch"
+    }
+  }
+}
